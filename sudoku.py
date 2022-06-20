@@ -323,7 +323,7 @@ def check_3x3s():
                 left_j = 6
                 right_j = 9
             else:
-                print("its fucked")
+                print("error")
             for k in range(left_i,right_i):
                 for l in range(left_j,right_j):
                     if(grid[k][l] == 0):
