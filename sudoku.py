@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr 24 19:13:07 2021
-
-@author: mathe
+@author: Danny Foley
+@project: sudoku solver
 """
 
 from tkinter import *
